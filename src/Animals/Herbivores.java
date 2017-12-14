@@ -1,3 +1,9 @@
+/*  Practicing Java
+     Article by Dr. Arif
+     Animal classification based on 
+     their food habit
+*/
+
 package Animals;
 
 public class Herbivores {
