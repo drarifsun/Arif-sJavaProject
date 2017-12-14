@@ -1,3 +1,8 @@
+/*  Practicing Java
+     Article by Dr. Arif
+     Infectious chronic diseases
+*/
+
 package CommonDisease;
 
 public class Infectious {
@@ -8,6 +13,8 @@ public class Infectious {
 		System.out.println("Caused by Mycobacterium Tuberculi");
 		System.out.println("Symptoms are cough with weight loss");
 		System.out.println("And low grade fever");
+		System.out.println("To prevent TB, right after birth");
+		System.out.print("BCG vaccine is given");
 	}
 
 }
