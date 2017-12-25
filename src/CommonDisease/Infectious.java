@@ -16,10 +16,12 @@ public class Infectious {
 		System.out.println("But it can attack almost any part of the body");
 		System.out.println("TB can be an active disease or latent infection");
 		System.out.println("Caused by Mycobacterium Tuberculi");
-		System.out.println("Symptoms are cough with weight loss");
-		System.out.println("And low grade fever");
+		System.out.print("Symptoms are cough with weight loss,");
+		System.out.println(" and low grade fever");
 		System.out.println("To prevent TB, right after birth");
-		System.out.print("BCG vaccine is given");
+		System.out.print("BCG vaccine is given,");
+		System.out.println(" it stands for Bacilli Culmette Guanin\n");
+		System.out.println("A vaccine extracted from bovine serum.");
 	}
 
 }
